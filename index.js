@@ -6,4 +6,4 @@ var height = "74"
 console.log(`Name: ${name}`)
 
 
-console.log("Height: parseInt()")
+console.log("Height: parseInt(height) + 1")
